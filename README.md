@@ -1,2 +1,7 @@
 # Radtunnel
-Visualisierung der Idee des Radtunnels mit 3D-Modell
+
+DEMO-TIME: WebApp zur Präsentation und Beteligung bei z.B. Projekten der Stadtentwicklung.
+
+Die Anwendung zeigt im Browser (1) ein 3D-Modell zum bewegen und zoomen, (2) textliche Informationen zum Projekt und (3) bietet die Möglichkeit der Beteiligung durch ein Kontaktformular.
+
+DEMO-URL: https://stewahn.github.io/Radtunnel/
