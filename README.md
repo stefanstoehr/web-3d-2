@@ -6,4 +6,6 @@ Die Anwendung zeigt im Browser (1) ein 3D-Modell zum bewegen und zoomen, (2) tex
 
 DEMO-URL: https://stewahn.github.io/Radtunnel/
 
-TEC: HTML + CSS + Inline-JS + Three.js für 3D 
+TEC: HTML + CSS + Inline-JS + Three.js für 3D
+
+INFO: Funktioniert nicht mit IE11
