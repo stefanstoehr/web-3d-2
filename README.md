@@ -1,9 +1,9 @@
 # Demosession: 3D-Radtunnel als Partizipations-WebApp
 
-# Link: https://stefanstoehr.github.io/Radtunnel/
+# Link: https://stefanstoehr.github.io/web-3d-2/
 
 ## Screenshot der WebApp
-![Screenshot der WebApp](https://raw.githubusercontent.com/stefanstoehr/Radtunnel/master/Screenshot.JPG)
+![Screenshot der WebApp](https://raw.githubusercontent.com/stefanstoehr/web-3d-2/master/Screenshot.JPG)
 
 ### WebApp zur Beteilgung bei Stadtentwicklungsprojekten
 
