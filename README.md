@@ -1,4 +1,4 @@
-# Demosession: 3D-Radtunnel als WebApp
+# Demosession: 3D-Radtunnel als Partizipations-WebApp
 
 # Link: https://stefanstoehr.github.io/Radtunnel/
 
