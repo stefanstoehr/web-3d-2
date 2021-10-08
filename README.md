@@ -1,11 +1,10 @@
-# Radtunnel - Bicycle tunnel
+# Demosession: 3D-Radtunnel als WebApp
 
-DEMO-TIME: WebApp zur Präsentation und Beteligung bei z.B. Projekten der Stadtentwicklung.
+# Link: https://stefanstoehr.github.io/Radtunnel/
 
-Die Anwendung zeigt im Browser (1) ein 3D-Modell zum bewegen und zoomen, (2) textliche Informationen zum Projekt und (3) bietet die Möglichkeit der Beteiligung durch ein Kontaktformular.
+### WebApp zur Beteilgung bei Stadtentwicklungsprojekten
 
-DEMO-URL: https://stefanstoehr.github.io/Radtunnel/
+Die Anwendung zeigt im Browser ein 3D-Modell zum bewegen und zoomen. Weitere Informationen lassen sich über einen Info-Button abrufen (Placeholder). Über ein Kontaktformular kann eine Mail versendet werden.
 
-TEC: HTML + CSS + Inline-JS + Three.js für 3D
-
-INFO: Funktioniert nicht mit IE11
+:coffee::coffee::coffee:
+Stefan
